@@ -41,7 +41,7 @@ h2 {
 
 h3 {
   color: #282828;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 32px;
   letter-spacing: 6px;
   text-transform: uppercase;
@@ -91,7 +91,7 @@ p {
 
 .section-btn:focus,
 .section-btn:hover {
-  background: #ffffff;
+  background: #EF4C89;
   color: #000000;
 }
 
@@ -206,7 +206,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/banner.jpg') 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
