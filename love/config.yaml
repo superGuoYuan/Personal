@@ -1,4 +1,4 @@
-name: loveyue3
+name: love
 version: 1
 handle:
-- directoryindex:  index.html 
+- directoryindex:  start.html 

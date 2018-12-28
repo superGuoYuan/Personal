@@ -9,4 +9,6 @@ filter: alpha(opacity=0.8);opacity: 0.8;cursor: pointer;}#on:hover,
 #off:hover{filter: alpha(opacity=4);opacity: 1}#on{background: 
 url("http://cdn2.yuxiaoxi.com/music.png") left center no-repeat;}#off{background: 
 url("http://cdn2.yuxiaoxi.com/mute.png") left center no-repeat;display: none;}
-.nPower{position: fixed;bottom: 10rem;right: 5.2rem;z-index: 999;}
+.nPower1{position: fixed;bottom: 14rem;right: 5rem;z-index: 999;}
+.nPower2{position: fixed;bottom: 12rem;right: 5rem;z-index: 999;}
+.nPower3{position: fixed;bottom: 10rem;right: 5rem;z-index: 999;}
