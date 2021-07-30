@@ -63,7 +63,9 @@ $(function(){
 			}
 		});	
 	});
-	var bgmMusic = document.getElementById("bgmMusic");
+	var bgmMusic = document.getElementById("bgmMusic"); 
+                console.log(bgmMusic);
+                console.log(bgmMusic.paused);
 	$("#on").click(function(){
 		bgmMusic.pause();
 		$("#on").hide(200);
